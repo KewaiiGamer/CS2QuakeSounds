@@ -1,0 +1,30 @@
+{
+  "sounds": [
+    "sounds/quake/aquijogasse.vsnd_c",
+    "sounds/quake/aquivaibife.vsnd_c",
+    "sounds/quake/burrodocaralho.vsnd_c",
+    "sounds/quake/chupaaqui.vsnd_c",
+    "sounds/quake/comojogasassim.vsnd_c",
+    "sounds/quake/escacarpedra.vsnd_c",
+    "sounds/quake/estoironaboca.vsnd_c",
+    "sounds/quake/fdscaralho.vsnd_c",
+    "sounds/quake/golooo.vsnd_c",
+    "sounds/quake/janaojogavamais.vsnd_c",
+    "sounds/quake/naojogomais.vsnd_c",
+    "sounds/quake/ninguemteparabot.vsnd_c",
+    "sounds/quake/pimbanabeica.vsnd_c",
+    "sounds/quake/playercaralho.vsnd_c",
+    "sounds/quake/primeirodemuitos.vsnd_c",
+    "sounds/quake/quepirocada.vsnd_c",
+    "sounds/quake/sexmachine.vsnd_c",
+    "sounds/quake/taforte.vsnd_c",
+    "sounds/quake/vaiarrebentaraescola.vsnd_c"
+  ],
+  "headshot_enable": true,
+  "knife_enable": true,
+  "hegrenade_enable": true,
+  "inferno_enable": true,
+  "thrusmoke_enabled": true,
+  "noscope_enabled": true,
+  "ConfigVersion": 1
+}
