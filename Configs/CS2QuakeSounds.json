@@ -20,10 +20,10 @@
     "sounds/quake/taforte.vsnd_c",
     "sounds/quake/vaiarrebentaraescola.vsnd_c"
   ],
-  "headshot_enable": true,
-  "knife_enable": true,
-  "hegrenade_enable": true,
-  "inferno_enable": true,
+  "headshot_enabled": true,
+  "knife_enabled": true,
+  "hegrenade_enabled": true,
+  "inferno_enabled": true,
   "thrusmoke_enabled": true,
   "noscope_enabled": true,
   "ConfigVersion": 1
